@@ -1,0 +1,109 @@
+
+  498  git clone https://github.com/alecperkey/gvoiceParser.git
+  499  cd gvoiceParser
+  500  ls
+  501  cd gvoiceParser
+  502  ls
+  503  python --version
+  504  python ./gvproc.py 
+  505  python help
+  506  python --help
+  507  python --help | python-help.txt
+  508  python --help > python-help.txt
+  509  python ./gvproc.py 
+  510  python gvproc.py 
+  511  pip install html5lib
+  512  pip install html5lib
+  513  pip install html5lib
+  514  python gvproc.py 
+  515  pip install dateutil
+  516  pip install tz
+  517  python gvproc.py 
+  518  python gvParserLib.py
+  519  pip --help
+  520  pip download
+  521  pip list
+  522  pip install --upgrade setuptools
+  523  pip list
+  524  pip install --upgrade pip
+  525  pip list
+  526  pip install --upgrade setuptools
+  527  pip install --upgrade six webencodings wheel
+  528  pip install --upgrade html5lib
+  529  pip list
+  530  python --version
+  531  python --help
+  532  python2 gvproc.py
+  533  pip2 --version
+  534  pip --version
+  535  pip install dateutil
+  536  pip install dateutil
+  537  pip listclear
+  538  clear
+  539  python gvproc.py 
+  540  pip install _weakref
+  541  pip install _weakref --upgrade
+  542  pip install _remove_dead_weakref
+  543  pip install name
+  544  update python
+  545  python --help
+  546  python gvproc.py 
+  547  pip upgrade weakref
+  548  pip install weakref --upgrade
+  549  pip2 -V
+  550  pip
+  551  pip -v
+  552  clear
+  553  pip -V
+  554  pip2 -V
+  555  pip install weakref --upgrade
+  556  pip2 install weakref --upgrade
+  557  pip2 install ref --upgrade
+  558  python gvproc.py 
+  559  pip install ref --upgrade
+  560  python gvproc.py 
+  561  pip install ref 
+  562  python gvproc.py 
+  563  pip install python-ref --upgrade
+  564  pip install _remove_dead_weakref --upgrade
+  565  pip install _remove_dead_weakref
+  566  pip install '_remove_dead_weakref'
+  567  pip list
+  568  pip install weakref
+  569  pip install weakref --upgrade
+  570  pip2 install weakref --upgrade
+  571  python gvproc.py 
+  572  pip list
+  573  pip install backports.weakref --upgrade
+  574  pip install weakref --upgrade
+  575  pip search weakref
+  576  pip install weakref_property
+  577  python gvproc.py 
+  578  pip install --user virtualenv
+  579  git status
+  580  git add .
+  581  git commit -a
+  582  git status
+  583  ls
+  584  history > history_for_print.txt
+  585  ls
+  586  open history_for_print.txt
+  587  open history_for_print.txt
+  588  git status
+  589  git add .
+  590  git status
+  591  git add .
+  592  git status
+  593  ls
+  594  git add bin.zip
+  595  ls
+  596  cd ../
+  597  ls
+  598  cd ~/virt
+  599  ls
+  600  cd gvoiceParser
+  601  ls
+  602  git status
+  603  git add .
+  604  open history_for_print.txt
+  605  history > history_for_print.txt
